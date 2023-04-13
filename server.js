@@ -33,7 +33,7 @@ app.put('/product/:id', async (req, res) => {
 })
 
 //DELETE borra un producto por ID
-app.delete('/product/:id', async (req, res) => {
+/*app.delete('/product/:id', async (req, res) => {
     try {
         const {id} = req.params;
         const product = await Product.findByIdAndDelete(id)
@@ -44,7 +44,7 @@ app.delete('/product/:id', async (req, res) => {
     } catch (error) {
         res.status(500).json({message: error.message})
     }
-})
+})*/
 
 //GET Recuperar producto por ID
 app.get('/product/:id', async (req, res) => {
