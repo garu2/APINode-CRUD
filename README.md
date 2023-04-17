@@ -5,7 +5,7 @@
 
 ## 💻Tutorial
 <a href='https://youtu.be/L7AFwNrnHeY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/zOXD9amKrDg/L7AFwNrnHeY' alt='Node API CRUD' />
+    <img width='30%' src='https://img.youtube.com/vi/L7AFwNrnHeY/mqdefault.jpg' alt='Node API CRUD' />
 </a>
 
 ## 📦Getting Started
