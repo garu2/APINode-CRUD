@@ -4,8 +4,8 @@
  [Deploy ](https://apinode-crud-production.up.railway.app/products)
 
 ## 💻Tutorial
-<a href='https://youtu.be/' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/zOXD9amKrDg/' alt='Memory Game React' />
+<a href='https://youtu.be/L7AFwNrnHeY' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/zOXD9amKrDg/L7AFwNrnHeY' alt='Node API CRUD' />
 </a>
 
 ## 📦Getting Started
